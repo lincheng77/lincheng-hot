@@ -1,0 +1,1 @@
+<view class="hot-container data-v-4aaa739e"><image class="logo data-v-4aaa739e" mode="aspectFit" src="{{a}}"/><view class="search-box data-v-4aaa739e"><my-search class="data-v-4aaa739e" u-i="4aaa739e-0" bind:__l="__l"></my-search></view></view>
